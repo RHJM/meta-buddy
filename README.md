@@ -1,12 +1,12 @@
 # MetaBuddy
 
-**MetaBuddy** is your lifelong AI financial companion — a soulbound assistant born with you at age 18 to guide your financial journey through DeFi, budgeting, automation, and emotional bonding.
+**MetaBuddy** is your lifelong AI financial companion — a soulbound assistant brought to life by you in adulthood to guide your financial journey through banking, DeFi, budgeting, trading, and life.
 
 ---
 
 ## 🔥 Vision
 
-MetaBuddy is more than a product — it's a movement. It redefines how we interact with finance, identity, and AI. Every user mints a unique MetaBuddy as a Soulbound NFT, tied to their identity, and receives lifelong guidance and support in managing wealth, making informed DeFi decisions, and building financial independence. Its everything they didnt teach you in school, or that information you with your parents told you or knew when you were young. Meta-buddy is there for you.
+MetaBuddy is more than a product — it's a movement. It redefines how we interact with finance, identity, and AI. Every user mints a unique MetaBuddy as a Soulbound NFT, tied to their identity, and receives lifelong guidance and support in managing wealth, making informed DeFi decisions, and building financial independence. Its everything they didnt teach you in school, or that information you wish your parents told you or knew when you were young. Meta-buddy is there for you.
 
 ---
 
